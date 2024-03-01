@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:challenge_tarea_one/models/data.dart';
-import 'package:challenge_tarea_one/pages/details_animals.dart';
+import 'package:challenge_tarea_one/screens/details_animals.dart';
 import 'dart:math' as math;
 import 'package:challenge_tarea_one/widgets/widgets.dart';
 
